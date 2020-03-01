@@ -92,6 +92,12 @@ its contents inside, like this:
   android-sdk/tools/
   android-sdk/tools/allthefiles
 
+Set ANDROID_HOME PAth:
+^^^^^^^^^^^^^^^^^^^^^^
+
+To set thise environment variables on Windows, press Windows + R, type "control system", then click on Advanced system settings in the left pane, then click on Environment variables on the window that appears.
+
+To set those environment variables on Linux or macOS, use export ANDROID_HOME=/path/to/android-sdk where /path/to/android-sdk point to the root of the SDK directory.
 
 Accepting the licenses
 ^^^^^^^^^^^^^^^^^^^^^^
